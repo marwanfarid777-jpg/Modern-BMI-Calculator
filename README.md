@@ -4,7 +4,7 @@ A Currency Converter built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Currency Converter](screenshot.png)
+![Currency Converter](‎screenshot.png.png)
 
 ## 🚀 Live Demo
 
