@@ -1,24 +1,26 @@
-# 💱 Currency Converter
 
-A Currency Converter built using HTML, CSS, and JavaScript.
+# ⚖️ Modern BMI Calculator
+
+A modern BMI Calculator built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
 ![Modern BMI Calculator](Screenshot%20(204).png.png)
+
 ## 🚀 Live Demo
 
-https://converter-with-html-css-javascript.netlify.app/
+https://modern-bmi-calculator.netlify.app/
 
 ## 📂 GitHub Repository
 
-https://github.com/marwanfarid777-jpg/Currency-Converter-with-HTML-CSS-JavaScript
+https://github.com/marwanfarid777-jpg/Modern-BMI-Calculator
 
 ## ✨ Features
 
-- Convert Between Currencies
-- User Friendly Interface
+- Calculate Body Mass Index (BMI)
+- Instant Results
 - Responsive Design
-- Fast Conversion
+- Clean and Modern UI
 
 ## 🛠 Technologies Used
 
@@ -29,7 +31,7 @@ https://github.com/marwanfarid777-jpg/Currency-Converter-with-HTML-CSS-JavaScrip
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/marwanfarid777-jpg/Currency-Converter-with-HTML-CSS-JavaScript.git
+git clone https://github.com/marwanfarid777-jpg/Modern-BMI-Calculator.git
 ```
 
 Then open `index.html` in your browser.
@@ -37,3 +39,4 @@ Then open `index.html` in your browser.
 ## 👨‍💻 Author
 
 Anas Farid
+
